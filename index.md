@@ -10,3 +10,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 $ git init
 初始化空 Git 仓库于 /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
